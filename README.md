@@ -48,10 +48,6 @@ Simple usage for stand-alone class documentation:
 
     vendor/bin/apidoc api source/directory ./output
 
-Simple usage for stand-alone guide documentation:
-
-    vendor/bin/apidoc guide source/docs ./output
-
 You can combine them to generate class API and guide documentation in one place:
 
     # generate API docs
